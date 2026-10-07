@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Post Creator: Духи & Внутренняя Энергия",
+  "description": "Студия создания вирусных постов, каруселей и сценариев Reels для Инстаграм про духов, тотемы и ароматы силы для раскрытия внутренней энергии.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
